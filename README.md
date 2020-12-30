@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hi there, I am Kartik👋
 
-<!--
-**karry3775/karry3775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🔭 I’m currently working on Autonomous Robotic solutions for warehouse inventory using drones. My work lies at the intersection of computer vision, mapping and localization.
 - 🌱 I’m currently learning new ways to create visualizations using SDL and other graphics library in C++.
 - 👯 I’m looking to collaborate on projects related to software utilities for better managing the software stacks for autonomous robot systems.
-- 📫 How to reach me: 
-  - kartikprakash3775@gmail.com
+
+### Connect with me:
+[<img align="left" width="50px" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg">][linkedin]
+
+<br />
+<br />
+
+[website]:https://karry3775.github.io/real_life.html
+[linkedin]:https://www.linkedin.com/in/kartik-prakash123/
+
+
