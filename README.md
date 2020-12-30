@@ -10,7 +10,25 @@
 <br />
 
 ### Languages and Tools:
+- C++ 
+- Python
+- Matlab
+- ROS 
+- Gazebo
+- Git version control
+- Bash scripting
+- OpenCV
+- PCL
 
+### Experience with sensors
+- Intel t265 camera
+- RP Lidar
+- PF Lidar
+
+### Experience in autonomous robots
+- Computer vision
+- Motion Planning
+- Mapping and Localization
 
 <br />
 <br />
