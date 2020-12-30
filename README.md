@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to software utilities for better managing the software stacks for autonomous robot systems.
 
 ### Connect with me:
-[<img align="left" width="50px" src="https://logodix.com/logo/4345.png">][linkedin]
+[<img align="left" width="50px" src="https://logodix.com/logo/4345.png"/>][linkedin]
 
 <br />
 
