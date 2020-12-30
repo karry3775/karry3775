@@ -8,6 +8,7 @@
 [<img align="left" width="50px" src="https://logodix.com/logo/4345.png"/>][linkedin]
 
 <br />
+<br />
 
 ### Languages and Tools:
 - C++ 
