@@ -20,6 +20,7 @@
 - Bash scripting
 - OpenCV
 - PCL
+- SDL
 
 ### Experience with sensors
 - Intel t265 camera
