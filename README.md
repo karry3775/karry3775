@@ -21,6 +21,7 @@
 - OpenCV
 - PCL
 - SDL
+- Ceres
 
 ### Experience with sensors
 - Intel t265 camera
